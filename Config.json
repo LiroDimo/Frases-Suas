@@ -1,0 +1,46 @@
+{
+    "DiscordToken": "SEU_TOKEN_DO_DISCORD_AQUI",
+    "GoogleToken": "SEU_TOKEN_DO_GOOGLE_AQUI",
+    "GoogleToken2": "SEU_SEGUNDO_TOKEN_AQUI",
+
+    "Prefixo": "$",
+
+    "Adm" : "ID_DO_DONO_DO_BOT",
+    "Senha": "SENHA_DO_BOT",
+    "FrasesSuas": "ID_DO_CANAL_DE_FRASES",
+
+    "Cores":{
+        "Menu": "#b361ff",
+        "Azul": "#122aff",
+        "Vermelho": "#f70529",
+        "Verde": "#4aff47",
+        "Verdin": "#00ffbf",
+        "Dourado": "#f7f705",
+        "Gelo": "#47ffff",
+        "Roxo": "#ab57ff",
+        "Rosa": "#ff69ac",
+        "Azulado": "#8d84e8"
+    },
+
+    "Gifs":{
+        "Menu": "LINK",
+        "GifAnt": "LINK",
+        "Ajuda": "LINK",
+        "Adm": "LINK"
+    },
+
+    "Link":{
+        "GitHub": "LINK"
+    },
+
+    "Autores" : {
+        "ExemploNome": ["Apelido1", "Apelido2", "ID_DO_USUARIO"],
+        "OutroExemplo": ["Apelido", "OutroApelido", "ID_DO_USUARIO"]
+    },
+
+    "Emojis": {
+        "EmojisAleatorios": [
+            "😀"
+        ]
+    }
+}
